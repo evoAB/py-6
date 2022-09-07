@@ -1,0 +1,1 @@
+print("Number is positive") if(int(input("Enter a number : "))>0) else print("Number is non-positive")
